@@ -1,0 +1,31 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+form {
+    margin-top: 50px;
+}
+
+input[type=text] {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button[type=submit] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.video {
+    margin-top: 50px;
+}
